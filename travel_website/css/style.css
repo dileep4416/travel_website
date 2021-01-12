@@ -77,7 +77,7 @@ header .navigation.active{
 }
 
 
-/* jover thebanner image text */
+/* the banner image text */
 
 p{
   font-weight: 300;
@@ -166,7 +166,7 @@ section{
   align-items: center;
   flex-direction: column;
 }
-/* our menu section******************************* */
+/* our destinations section******************************* */
 .menu .content{
   display: flex;
   justify-content: center;
@@ -354,7 +354,7 @@ section{
   font-weight: 600;
 }
 
-/* browser queries************************* */
+/*queries************************* */
 @media (max-width: 991px){
   header,
   header.sticky{
